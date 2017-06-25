@@ -9,5 +9,11 @@ hod-go is a tool to dump data in Hex or in Octal format.
     -o    dump in octal. Default is hex
     -version
             Show version infomation
-
+   
 TODO: other options
+
+To install:
+
+   go get github.com/muquit/hod-go
+
+hod-go binary will be in your $GOPATH/bin
