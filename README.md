@@ -14,6 +14,6 @@ TODO: other options
 
 To install:
 
-    go get github.com/muquit/hod-go
-
+   go install github.com/muquit/hod-go@latest
+   
 hod-go binary will be in your $GOPATH/bin
